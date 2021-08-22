@@ -17,3 +17,20 @@ AndrewGarfield branch
 - Year: 2014 
 - Name: Peter Benjamin Parker 
 
+TomHollandbranch
+#CaptainAmerica:CivilWar
+-Year:2016
+-Name:PeterBenjaminParker
+#Spider-Man:HomeComing
+-Year:2017
+-Name:PeterBenjaminParker
+#Avengers:Infinitywar
+-Year:2018
+-Name:PeterBenjaminParker
+#Avengers:Endgame
+-Year:2019
+-Name:PeterBenjaminParker
+#Spider-Man:FarFromHome
+-Year:2019
+-Name:PeterBenjaminParker
+
